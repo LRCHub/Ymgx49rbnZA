@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "世界が終るまでは…[WANDS第5期ver.]",
+  "base_artist": "WANDS",
+  "createdAt": "2026-02-08T08:42:12.291609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界が終るまでは…[WANDS第5期ver.]",
+      "artist": "WANDS",
+      "has_synced": true,
+      "path": "select/01_世界が終るまでは...[WANDS第5期ver.]_WANDS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界が終るまでは…[WANDS第5期ver.]",
+      "artist": "WANDS",
+      "has_synced": false,
+      "path": "select/pl_01_世界が終るまでは...[WANDS第5期ver.]_WANDS.txt"
+    }
+  ]
+}
